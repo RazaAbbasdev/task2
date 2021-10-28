@@ -1,6 +1,8 @@
 Estimated Time Required: 4 Hours
 Original Time Taken: 3 hours
 
+To run this code, metamask extension should be installed in your browser
+
 ![image](https://user-images.githubusercontent.com/65680355/139243200-f22d1816-5893-4f0a-9324-e34129661046.png)
 
 # Getting Started with Create React App
